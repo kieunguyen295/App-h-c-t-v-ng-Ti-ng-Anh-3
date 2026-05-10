@@ -1,0 +1,8 @@
+{
+  "name": "Vocab 3 – Global Success",
+  "description": "An interactive English vocabulary learning app for 3rd grade students with games, AI buddy, and pronunciation guides.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
